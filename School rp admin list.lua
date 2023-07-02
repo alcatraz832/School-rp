@@ -9,6 +9,12 @@ return {
 			"oxigeek_youtube",    --Oxi_Fox
 			"Fegurie45",          --Fegurie45
 			"PetitBiscuit7890",   --PetitBiscuit7890
+		       -- "Players",         --haaaaa
+		        "MEWTOW_22s",         --haaaaaa
+		        "LeGrosFurry",         --haaaaaa
+		        "leroilion97",         --haaaaaaa
+			"maxiland61",         --haaaaaaaaa	        
+		        "izehfzeoi",         --haaaaaa
 		}
 	},
 
